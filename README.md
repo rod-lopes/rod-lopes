@@ -1,4 +1,4 @@
-<h1 align="center"> Rodrigo Basso Lopes</h1>
+![Seja Bem-Vindo!](https://github.com/rod-lopes/rod-lopes/blob/main/header.png)
 
 <div align="center">
   <a href="https://github.com/rod-lopes">
